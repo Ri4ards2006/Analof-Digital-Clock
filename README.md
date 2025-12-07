@@ -7,7 +7,7 @@ This repository showcases two versions of a **Digital-Analog Clock** project, co
 
 ## 🧩 Project Versions
 
-### 1️⃣ Classic Version (LF-6, Analog-Digital Uhr) 💻🎨
+### 1️⃣ Classic Version ( Analog-Digital Uhr) 💻🎨
 
 - **Microcontroller:** ATmega8 🛠️  
 - **RTC:** DS1307 ⏳  
